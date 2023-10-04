@@ -2,7 +2,7 @@
 
 <p><img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="Coding"/></p>
 
-- 🔭 I’m currently working on **E-commerce Application**
+- 🔭 I’m currently working on **skillblend-lms**
 
 - 🌱 I’m currently learning **React and its ecosystem**
 
