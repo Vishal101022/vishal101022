@@ -7,4 +7,4 @@
 - 💬 Ask me about **html, css, javascript**
 
 - 📫 How to reach me **raivishal939@gmail.com**
-- View my [resume](https://drive.google.com/file/d/1BuNQjwgwRcE733uXYQAz8SGELzxnmow6/view?usp=sharing)
+- View my [resume](https://drive.google.com/file/d/1lWV0c7_BWfQy4rmyjlIbrbzkf-9yBHBH/view?usp=sharing)
