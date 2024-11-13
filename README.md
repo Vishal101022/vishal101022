@@ -4,7 +4,5 @@
 
 - 🌱 I’m currently learning **javaScript and DSA**
 
-- 💬 Ask me about **html, css, javascript**
-
 - 📫 How to reach me **raivishal939@gmail.com**
 - View my [resume](https://drive.google.com/file/d/1liPRqFUnM0-r1tyko2Ck5MUkWpBWwuJw/view?usp=sharing)
