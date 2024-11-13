@@ -1,6 +1,6 @@
 ##  Hi there 👋, I'm a web developer based in India
 
-- 🔭 I’m currently working on **elib-book**
+- 🔭 I’m currently working on **full_stack_expense_app**
 
 - 🌱 I’m currently learning **javaScript and DSA**
 
